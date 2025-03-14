@@ -17,7 +17,8 @@ In order to run the setup and install the program, you must meet these minimum r
 6. This code is open-source. That means you can redistribute it all you want, modify it all you want, and whatever you want to do. You don't have to give me credit, but it would really be appreciated :).
 
 # Disclaimer!
-This program is not malicious. It is open source, so you can inspect the code and check for malicious code. You can do whatever you need, I can guarantee you it is not malicious. If you believe it is, please contact me, and include any piece of malicious code you found, and I will look into it.
+- This program is not malicious. It is open source, so you can inspect the code and check for malicious code. You can do whatever you need, I can guarantee you it is not malicious. If you believe it is, please contact me, and include any piece of malicious code you found, and I will look into it.
+- I could not upload the exe installer because it is 400 MB in size. So I need you to download the program from a link. 
 
 # Thank you
 Thanks for using this program. Creating an installer for this program took 2 weeks, and I really would like it if someone tested this code :D. I hope to be a programmer one day, and testers like you are really helpful.
