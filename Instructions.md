@@ -6,5 +6,5 @@ Once you finish installing, go to the windows search bar, type in "TextEncrypt",
 
 # If you have java installed
 If you have java installed on your system, you can download "TextEncryptSetup.jar", open the file, and hit install.
-To check if you have java installed, go to the windows search bar, type in "About java", and if any application is listed called "About java", hit enter, and check the version. If it says version 8 or above, you should be able to run the univeral jar file.
+To check if you have java installed, go to the windows search bar, type in "About java", and if any application is listed called "About java", hit enter, and check the version. If it says version 8 or above, you should be able to run the univeral jar file. If no application is listed, you do not have java installed.
 If you don't have java installed, please download the .exe file for windows. Linux and Mac is currently not supported for running TextEncrypt, but is currently planned on being supported.
