@@ -22,3 +22,6 @@ In order to run the setup and install the program, you must meet these minimum r
 
 # Thank you
 Thanks for using this program. Creating an installer for this program took 2 weeks, and I really would like it if someone tested this code :D. I hope to be a programmer one day, and testers like you are really helpful.
+
+# Installing the program
+To install the program, please navigate to Instructions.md on this github repository and follow the instructions listed.
