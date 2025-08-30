@@ -1,6 +1,9 @@
 # About the program
 TextEncrypt is an open-source javafx program I made that allows a user to utilize DES encryption and decryption to encrypt and decrypt plain text with a password. Please note that this program was made a while ago and I only just recently wrapped it and exported the program as a self-extractor installer
 
+# Installer
+You can download the installer here: https://drive.google.com/drive/folders/1PjhMD7fc0hDQYxH-37aptOEsKrthq0-c?usp=sharing
+
 # Requirements
 In order to run the setup and install the program, you must meet these minimum requirements
 - A 64-bit processor
@@ -24,4 +27,4 @@ In order to run the setup and install the program, you must meet these minimum r
 Thanks for using this program. Creating an installer for this program took 2 weeks, and I really would like it if someone tested this code :D. I hope to be a programmer one day, and testers like you are really helpful.
 
 # Installing the program
-To install the program, please navigate to Instructions.md on this github repository and follow the instructions listed.
+To install the program, please navigate to Instructions.md on this github repository and follow the instructions listed. Or, you can just click on the link on the installer section above without any instructions, but it should be relatively easy either way. 
